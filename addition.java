@@ -3,7 +3,7 @@ public class addition {
 {
 	System.out.println("hello");
 	System.out.println("ADD,SUB,MUL,DIV,MODU:");
-    int a=100,b=30;
+    int a=20,b=30;
     int c=a+b;
     System.out.println("Addition:"+c);
     c=a-b;
